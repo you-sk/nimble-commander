@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "<无>"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
+          }
         }
       }
     },
@@ -34,6 +40,12 @@
             "state" : "translated",
             "value" : "始终以此方式打开"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常にこのアプリケーションで開く"
+          }
         }
       }
     },
@@ -48,6 +60,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store…"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store…"
@@ -70,6 +88,12 @@
             "state" : "translated",
             "value" : "压缩"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮"
+          }
         }
       }
     },
@@ -87,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "压缩“%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を圧縮"
           }
         }
       }
@@ -106,6 +136,12 @@
             "state" : "translated",
             "value" : "在对面面板中压缩“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を反対側のペインに圧縮"
+          }
         }
       }
     },
@@ -123,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "压缩 %lu 个项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu項目を圧縮"
           }
         }
       }
@@ -142,6 +184,12 @@
             "state" : "translated",
             "value" : "在对面面板中压缩 %lu 个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu項目を反対側のペインに圧縮"
+          }
         }
       }
     },
@@ -159,6 +207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在对面面板中压缩"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反対側のペインに圧縮"
           }
         }
       }
@@ -178,6 +232,12 @@
             "state" : "translated",
             "value" : "拷贝“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」をコピー"
+          }
         }
       }
     },
@@ -195,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "拷贝 %d 个项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d項目をコピー"
           }
         }
       }
@@ -214,6 +280,12 @@
             "state" : "translated",
             "value" : "拷贝 %lu 个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu項目をコピー"
+          }
         }
       }
     },
@@ -231,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将 %lu 个项目作为路径名拷贝"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lu項目のパスをコピー"
           }
         }
       }
@@ -250,6 +328,12 @@
             "state" : "translated",
             "value" : "将“%@”作为路径名拷贝"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」のパスをコピー"
+          }
         }
       }
     },
@@ -267,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "默认"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デフォルト"
           }
         }
       }
@@ -286,6 +376,12 @@
             "state" : "translated",
             "value" : "永久删除"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完全に削除"
+          }
         }
       }
     },
@@ -303,6 +399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製"
           }
         }
       }
@@ -322,6 +424,12 @@
             "state" : "translated",
             "value" : "正在获取…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取得中…"
+          }
         }
       }
     },
@@ -339,6 +447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移到废纸篓"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴミ箱に入れる"
           }
         }
       }
@@ -358,6 +472,12 @@
             "state" : "translated",
             "value" : "打开"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開く"
+          }
         }
       }
     },
@@ -375,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开方式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリケーションで開く"
           }
         }
       }
@@ -394,6 +520,12 @@
             "state" : "translated",
             "value" : "其他…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他…"
+          }
         }
       }
     },
@@ -412,6 +544,12 @@
             "state" : "translated",
             "value" : "共享"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有"
+          }
         }
       }
     },
@@ -429,6 +567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标签"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ"
           }
         }
       }

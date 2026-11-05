@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "B"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "B"
+          }
         }
       }
     },
@@ -32,6 +38,12 @@
             "state" : "translated",
             "value" : "字节"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バイト"
+          }
         }
       }
     },
@@ -45,6 +57,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " KMGTP"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : " KMGTP"
@@ -66,6 +84,12 @@
             "state" : "translated",
             "value" : "文件夹"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ"
+          }
         }
       }
     },
@@ -82,6 +106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "    向上"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "    上へ"
           }
         }
       }
@@ -106,6 +136,12 @@
             "state" : "translated",
             "value" : "文件夹"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ"
+          }
         }
       }
     },
@@ -129,6 +165,12 @@
             "state" : "translated",
             "value" : "向上"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上へ"
+          }
         }
       }
     },
@@ -150,6 +192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "访问日期"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセス日時"
           }
         }
       }
@@ -173,6 +221,12 @@
             "state" : "translated",
             "value" : "添加日期"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加日時"
+          }
         }
       }
     },
@@ -194,6 +248,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建日期"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成日時"
           }
         }
       }
@@ -217,6 +277,12 @@
             "state" : "translated",
             "value" : "修改日期"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更日時"
+          }
         }
       }
     },
@@ -238,6 +304,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "扩展名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張子"
           }
         }
       }
@@ -261,6 +333,12 @@
             "state" : "translated",
             "value" : "名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前"
+          }
         }
       }
     },
@@ -282,6 +360,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大小"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ"
           }
         }
       }
@@ -305,6 +389,12 @@
             "state" : "translated",
             "value" : "标签"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ"
+          }
         }
       }
     },
@@ -327,6 +417,12 @@
             "state" : "translated",
             "value" : "临时面板：%@"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時ペイン: %@"
+          }
         }
       }
     },
@@ -348,6 +444,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "临时面板"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一時ペイン"
           }
         }
       }
@@ -372,6 +474,12 @@
             "state" : "translated",
             "value" : "感谢你使用 Nimble Commander 的已注册副本！请重新启动以使更改生效。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Thank you for using a registered copy of Nimble Commander! Please restart it for the changes to take effect."
+          }
         }
       }
     },
@@ -395,6 +503,12 @@
             "state" : "translated",
             "value" : "激活成功"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Activated successfully"
+          }
         }
       }
     },
@@ -417,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这是 Nimble Commander 的试用版。\n30 天试用期结束后若需继续使用本软件，你必须购买许可证或从 Mac App Store 安装付费版本。\n此窗口仅在试用版中显示。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "This is a trial version of Nimble Commander.\nTo continue using this software after the 30-day trial period, you have to either buy a license or install the paid version from Mac App Store.\nThis window appears only in the trial version."
           }
         }
       }
@@ -673,6 +793,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -705,6 +831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "检查更新…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートを確認…"
           }
         }
       }
@@ -789,6 +921,12 @@
             "state" : "translated",
             "value" : "关闭标签页"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タブを閉じる"
+          }
         }
       }
     },
@@ -822,6 +960,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关闭窗口"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウインドウを閉じる"
           }
         }
       }
@@ -957,6 +1101,12 @@
             "state" : "translated",
             "value" : "关闭管理员模式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理者モードを無効にする"
+          }
         }
       }
     },
@@ -1044,6 +1194,12 @@
             "state" : "translated",
             "value" : "打开管理员模式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "管理者モードを有効にする"
+          }
         }
       }
     },
@@ -1093,6 +1249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "执行“%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を実行"
           }
         }
       }
@@ -1757,6 +1919,12 @@
             "state" : "translated",
             "value" : "聚焦文件面板"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルペインにフォーカス"
+          }
         }
       }
     },
@@ -1773,6 +1941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "聚焦重叠的终端"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重ね合わせターミナルにフォーカス"
           }
         }
       }
@@ -1924,6 +2098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏面板"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペインを非表示"
           }
         }
       }
@@ -2280,6 +2460,12 @@
             "state" : "translated",
             "value" : "打开“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を開く"
+          }
         }
       }
     },
@@ -2379,6 +2565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "父文件夹"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "親フォルダ"
           }
         }
       }
@@ -2764,6 +2956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示面板"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペインを表示"
           }
         }
       }

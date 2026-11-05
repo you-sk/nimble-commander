@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "拷贝文件时间"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルの日時をコピー"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "拷贝"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "拷贝 UNIX 标志"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UNIXフラグをコピー"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "拷贝扩展属性"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張属性をコピー"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高级选项"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細オプション"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "从不"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しない"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保留符号链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボリックリンクを保持"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "高级选项"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細オプション"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移动时"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動時のみ"
           }
         }
       }
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "拷贝"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー"
+          }
         }
       }
     },
@@ -285,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重命名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を変更"
           }
         }
       }
@@ -310,6 +382,12 @@
             "state" : "translated",
             "value" : "始终"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常にする"
+          }
         }
       }
     },
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "拷贝 UNIX 所有权"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UNIX所有者情報をコピー"
+          }
         }
       }
     },
@@ -357,6 +441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "校验拷贝的文件："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー後の検証:"
           }
         }
       }
