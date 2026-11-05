@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "连接到 FTP 服务器："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTPサーバに接続:"
+          }
         }
       }
     },
@@ -42,6 +48,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonymous@domain.com"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "anonymous@domain.com"
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "标题："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前:"
+          }
         }
       }
     },
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "远程端口："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続先ポート:"
+          }
         }
       }
     },
@@ -114,6 +138,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ftp.example.com"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ftp.example.com"
@@ -142,6 +172,12 @@
             "state" : "translated",
             "value" : "主动模式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクティブモード"
+          }
         }
       }
     },
@@ -165,6 +201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "远程路径："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続先のパス:"
           }
         }
       }
@@ -190,6 +232,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -210,6 +258,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/"
@@ -238,6 +292,12 @@
             "state" : "translated",
             "value" : "anonymous@domain.com"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonymous@domain.com"
+          }
         }
       }
     },
@@ -258,6 +318,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/"
@@ -286,6 +352,12 @@
             "state" : "translated",
             "value" : "anonymous"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonymous"
+          }
         }
       }
     },
@@ -306,6 +378,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "21"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "21"
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "anonymous"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "anonymous"
+          }
         }
       }
     },
@@ -354,6 +438,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ftp.example.com"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ftp.example.com"
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "21"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "21"
+          }
         }
       }
     },
@@ -405,6 +501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "用户名："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザー名:"
           }
         }
       }
@@ -430,6 +532,12 @@
             "state" : "translated",
             "value" : "存储"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
         }
       }
     },
@@ -453,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "连接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続"
           }
         }
       }
@@ -478,6 +592,12 @@
             "state" : "translated",
             "value" : "任意标题"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任意の名前"
+          }
         }
       }
     },
@@ -502,6 +622,12 @@
             "state" : "translated",
             "value" : "密码："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード:"
+          }
         }
       }
     },
@@ -525,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバ:"
           }
         }
       }

@@ -642,6 +642,12 @@
             "state" : "translated",
             "value" : "确定要删除此连接吗？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この接続を削除しますか？"
+          }
         }
       }
     },
@@ -845,6 +851,12 @@
             "state" : "translated",
             "value" : "区分大小写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字を区別"
+          }
         }
       }
     },
@@ -883,6 +895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "清除最近记录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の履歴を消去"
           }
         }
       }
@@ -973,6 +991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关闭查看器"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ビューアを閉じる"
           }
         }
       }
@@ -1086,6 +1110,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "连接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続"
           }
         }
       }
@@ -1224,6 +1254,12 @@
             "state" : "translated",
             "value" : "Dropbox 连接错误："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dropbox接続エラー:"
+          }
         }
       },
       "shouldTranslate" : false
@@ -1263,6 +1299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "编码"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンコーディング"
           }
         }
       }
@@ -2268,6 +2310,12 @@
             "state" : "translated",
             "value" : "FTP 连接错误："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FTP接続エラー:"
+          }
         }
       }
     },
@@ -2540,6 +2588,12 @@
             "state" : "translated",
             "value" : "掩码“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターン「%@」"
+          }
         }
       }
     },
@@ -2556,6 +2610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "掩码：*、或 *.t?t、或 *.txt,*.jpg"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターン: *、*.t?t、*.txt,*.jpg"
           }
         }
       }
@@ -2642,6 +2702,12 @@
             "state" : "translated",
             "value" : "否"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いいえ"
+          }
         }
       }
     },
@@ -2702,6 +2768,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不包含"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "含まない"
           }
         }
       }
@@ -2797,6 +2869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选项"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オプション"
           }
         }
       }
@@ -2948,6 +3026,12 @@
             "state" : "translated",
             "value" : "最近的搜索"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の検索"
+          }
         }
       }
     },
@@ -3003,6 +3087,12 @@
             "state" : "translated",
             "value" : "正则“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現「%@」"
+          }
         }
       }
     },
@@ -3020,6 +3110,12 @@
             "state" : "translated",
             "value" : "正则表达式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
+          }
         }
       }
     },
@@ -3035,6 +3131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正则表达式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
           }
         }
       }
@@ -3240,6 +3342,12 @@
             "state" : "translated",
             "value" : "SFTP 连接错误："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SFTP接続エラー:"
+          }
         }
       }
     },
@@ -3330,6 +3438,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "指定用于匹配文件名的正则表达式。(^M)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名に一致させる正規表現を指定します。(^M)"
           }
         }
       }
@@ -3817,6 +3931,12 @@
             "state" : "translated",
             "value" : "无法连接到网络共享"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネットワーク共有に接続できません"
+          }
         }
       }
     },
@@ -3958,6 +4078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用“*”作为多字符通配符，“?”作为单字符通配符，并使用“,”指定多个掩码。(^M)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「*」は任意の文字列、「?」は任意の1文字に一致します。複数のパターンは「,」で区切ります。(^M)"
           }
         }
       }
@@ -4193,6 +4319,12 @@
             "state" : "translated",
             "value" : "WebDAV 连接错误："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WebDAV接続エラー:"
+          }
         }
       }
     },
@@ -4208,6 +4340,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "整个短语"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "語句全体"
           }
         }
       }

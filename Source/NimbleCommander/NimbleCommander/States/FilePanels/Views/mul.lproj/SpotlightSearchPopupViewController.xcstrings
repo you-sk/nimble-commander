@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "用 Spotlight 查找："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spotlightで検索:"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入搜索条件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索条件を入力"
           }
         }
       }

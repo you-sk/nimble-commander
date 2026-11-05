@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
+          }
         }
       }
     },
@@ -39,6 +45,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "窗口"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F0z-JX-Cv5.title"
           }
         }
       }
