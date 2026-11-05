@@ -1,4 +1,4 @@
-[日本語版Forkについて](README.ja.md) — Japanese localization is available for the main menu and core file-operation dialogs; other screens fall back to English.
+[日本語版Forkについて](README.ja.md) — Japanese localization is available for the main menu, core file-operation dialogs, and preference tabs; other screens fall back to English.
 
 [![Build and Test](https://github.com/mikekazakov/nimble-commander/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikekazakov/nimble-commander/actions/workflows/build.yml)
 [![Nightly Build](https://github.com/mikekazakov/nimble-commander/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/mikekazakov/nimble-commander/actions/workflows/nightly.yml)

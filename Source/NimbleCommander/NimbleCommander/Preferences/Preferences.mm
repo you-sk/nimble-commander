@@ -25,7 +25,9 @@ static PreferencesWindowController *CreatePrefWindow()
                                           actionsShortcutsManager:app_del.actionsShortcutsManager],
         [[PreferencesWindowToolsTab alloc] initWithToolsStorage:tools_storage]
     ];
-    return [[PreferencesWindowController alloc] initWithControllers:tabs title:@"Preferences"];
+    return [[PreferencesWindowController alloc]
+        initWithControllers:tabs
+                      title:NSLocalizedStringFromTable(@"Preferences", @"Preferences", "Preferences window title")];
 }
 
 void ShowPreferencesWindow()

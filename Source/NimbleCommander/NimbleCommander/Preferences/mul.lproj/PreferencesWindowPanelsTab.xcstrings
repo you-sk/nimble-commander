@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "搜索新标签…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいタグを検索…"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标题："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前:"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "已停用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "校验拷贝的文件："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー後の検証:"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "呈现方式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无修饰键"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修飾キーなし"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "画廊"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ギャラリー"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将预览显示为："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレビューの表示方法:"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "图标大小："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンサイズ:"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "布局"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウト"
           }
         }
       }
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "无"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
+          }
         }
       }
     },
@@ -285,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "快速查找"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クイック検索"
           }
         }
       }
@@ -310,6 +382,12 @@
             "state" : "translated",
             "value" : "启用标签"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグを有効にする"
+          }
         }
       }
     },
@@ -330,6 +408,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2"
@@ -358,6 +442,12 @@
             "state" : "translated",
             "value" : "文本行数："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テキスト行数:"
+          }
         }
       }
     },
@@ -381,6 +471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将键盘输入重定向到重叠的终端"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キー入力を重ね合わせターミナルに送る"
           }
         }
       }
@@ -406,6 +502,12 @@
             "state" : "translated",
             "value" : "固定列数"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列数を固定"
+          }
         }
       }
     },
@@ -429,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行为"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動作"
           }
         }
       }
@@ -454,6 +562,12 @@
             "state" : "translated",
             "value" : "从不"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "しない"
+          }
         }
       }
     },
@@ -477,6 +591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移动时"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動時のみ"
           }
         }
       }
@@ -502,6 +622,12 @@
             "state" : "translated",
             "value" : "10 秒"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10秒"
+          }
         }
       }
     },
@@ -525,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "按掩码选择时忽略目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターンでの選択時にフォルダを除外"
           }
         }
       }
@@ -550,6 +682,12 @@
             "state" : "translated",
             "value" : "1 分钟"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1分"
+          }
         }
       }
     },
@@ -573,6 +711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "恢复上次状态"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前回の状態を復元"
           }
         }
       }
@@ -598,6 +742,12 @@
             "state" : "translated",
             "value" : "5 分钟"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5分"
+          }
         }
       }
     },
@@ -621,6 +771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "简要"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡易"
           }
         }
       }
@@ -646,6 +802,12 @@
             "state" : "translated",
             "value" : "选择操作…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作を選択…"
+          }
         }
       }
     },
@@ -669,6 +831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "仅显示匹配的项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一致する項目のみ表示"
           }
         }
       }
@@ -694,6 +862,12 @@
             "state" : "translated",
             "value" : "显示其他窗口的路径"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほかのウインドウのパスを表示"
+          }
         }
       }
     },
@@ -718,6 +892,12 @@
             "state" : "translated",
             "value" : "通知："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知:"
+          }
         }
       }
     },
@@ -738,6 +918,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1"
@@ -766,6 +952,12 @@
             "state" : "translated",
             "value" : "允许拖放到文件夹中"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダへのドラッグ＆ドロップを許可"
+          }
         }
       }
     },
@@ -790,6 +982,12 @@
             "state" : "translated",
             "value" : "30 分钟"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30分"
+          }
         }
       }
     },
@@ -810,6 +1008,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "4"
@@ -838,6 +1042,12 @@
             "state" : "translated",
             "value" : "1"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
         }
       }
     },
@@ -861,6 +1071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示所有项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての項目を表示"
           }
         }
       }
@@ -886,6 +1102,12 @@
             "state" : "translated",
             "value" : "按键修饰符："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修飾キー:"
+          }
         }
       }
     },
@@ -910,6 +1132,12 @@
             "state" : "translated",
             "value" : "已停用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
+          }
         }
       }
     },
@@ -930,6 +1158,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "10"
@@ -958,6 +1192,12 @@
             "state" : "translated",
             "value" : "搜索位置："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索する範囲:"
+          }
         }
       }
     },
@@ -982,6 +1222,12 @@
             "state" : "translated",
             "value" : "已停用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
+          }
         }
       }
     },
@@ -1002,6 +1248,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "列"
@@ -1030,6 +1282,12 @@
             "state" : "translated",
             "value" : "文件夹切换菜单："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ移動メニュー:"
+          }
         }
       }
     },
@@ -1047,6 +1305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OtherViews"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FXa-o4-dhn.title"
           }
         }
       }
@@ -1072,6 +1336,12 @@
             "state" : "translated",
             "value" : "标签"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ"
+          }
         }
       }
     },
@@ -1095,6 +1365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "默认路径（左/右）："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既定のパス（左／右）:"
           }
         }
       }
@@ -1120,6 +1396,12 @@
             "state" : "translated",
             "value" : "每个窗口同时进行的文件操作数"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "件まで同時に実行（ウインドウごと）"
+          }
         }
       }
     },
@@ -1143,6 +1425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "结尾"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "末尾"
           }
         }
       }
@@ -1168,6 +1456,12 @@
             "state" : "translated",
             "value" : "目录列表："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ一覧:"
+          }
         }
       }
     },
@@ -1192,6 +1486,12 @@
             "state" : "translated",
             "value" : "截断文件名于"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名の省略位置:"
+          }
         }
       }
     },
@@ -1209,6 +1509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OtherViews"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hwd-Vk-Rmi.title"
           }
         }
       }
@@ -1234,6 +1540,12 @@
             "state" : "translated",
             "value" : "文件大小格式："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルサイズの形式:"
+          }
         }
       }
     },
@@ -1257,6 +1569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "数量："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列数:"
           }
         }
       }
@@ -1282,6 +1600,12 @@
             "state" : "translated",
             "value" : "开头或结尾"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先頭または末尾"
+          }
         }
       }
     },
@@ -1302,6 +1626,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "4"
@@ -1330,6 +1660,12 @@
             "state" : "translated",
             "value" : "10 分钟"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10分"
+          }
         }
       }
     },
@@ -1353,6 +1689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "图标大小："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンサイズ:"
           }
         }
       }
@@ -1378,6 +1720,12 @@
             "state" : "translated",
             "value" : "动态列宽"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列幅を自動調整"
+          }
         }
       }
     },
@@ -1402,6 +1750,12 @@
             "state" : "translated",
             "value" : "图标大小："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンサイズ:"
+          }
         }
       }
     },
@@ -1422,6 +1776,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5"
@@ -1450,6 +1810,12 @@
             "state" : "translated",
             "value" : "中间"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中央"
+          }
         }
       }
     },
@@ -1470,6 +1836,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2"
@@ -1498,6 +1870,12 @@
             "state" : "translated",
             "value" : "2"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
         }
       }
     },
@@ -1521,6 +1899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已停用"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
           }
         }
       }
@@ -1546,6 +1930,12 @@
             "state" : "translated",
             "value" : "当 NC 处于活动状态时显示"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NCがアクティブなときも表示"
+          }
         }
       }
     },
@@ -1566,6 +1956,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌃⌥"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⌃⌥"
@@ -1594,6 +1990,12 @@
             "state" : "translated",
             "value" : "3"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
         }
       }
     },
@@ -1617,6 +2019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "浮动窗口"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "独立ウインドウ"
           }
         }
       }
@@ -1642,6 +2050,12 @@
             "state" : "translated",
             "value" : "简要"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡易"
+          }
         }
       }
     },
@@ -1665,6 +2079,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
           }
         }
       }
@@ -1690,6 +2110,12 @@
             "state" : "translated",
             "value" : "5 秒"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5秒"
+          }
         }
       }
     },
@@ -1713,6 +2139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择大小格式："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択サイズの形式:"
           }
         }
       }
@@ -1738,6 +2170,12 @@
             "state" : "translated",
             "value" : "开头"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先頭"
+          }
         }
       }
     },
@@ -1758,6 +2196,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "3"
@@ -1786,6 +2230,12 @@
             "state" : "translated",
             "value" : "最多允许："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同時実行数:"
+          }
         }
       }
     },
@@ -1809,6 +2259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行为"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動作"
           }
         }
       }
@@ -1834,6 +2290,12 @@
             "state" : "translated",
             "value" : "布局"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウト"
+          }
         }
       }
     },
@@ -1857,6 +2319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "呈现方式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
           }
         }
       }
@@ -1882,6 +2350,12 @@
             "state" : "translated",
             "value" : "快速查找"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クイック検索"
+          }
         }
       }
     },
@@ -1906,6 +2380,12 @@
             "state" : "translated",
             "value" : "标签"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タグ"
+          }
         }
       }
     },
@@ -1926,6 +2406,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧⌥"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⇧⌥"
@@ -1954,6 +2440,12 @@
             "state" : "translated",
             "value" : "最大宽度："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大幅:"
+          }
         }
       }
     },
@@ -1978,6 +2470,12 @@
             "state" : "translated",
             "value" : "忽略字符："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無視する文字:"
+          }
         }
       }
     },
@@ -1998,6 +2496,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "3"
@@ -2026,6 +2530,12 @@
             "state" : "translated",
             "value" : "0"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
         }
       }
     },
@@ -2049,6 +2559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "均分宽度"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列幅を均等にする"
           }
         }
       }
@@ -2074,6 +2590,12 @@
             "state" : "translated",
             "value" : "文件操作后取消选择项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル操作後に選択を解除"
+          }
         }
       }
     },
@@ -2094,6 +2616,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1"
@@ -2122,6 +2650,12 @@
             "state" : "translated",
             "value" : "显示本地化的文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカライズされたファイル名を表示"
+          }
         }
       }
     },
@@ -2145,6 +2679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "布局类型："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウトの種類:"
           }
         }
       }
@@ -2170,6 +2710,12 @@
             "state" : "translated",
             "value" : "面板叠加"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペイン上に重ねて表示"
+          }
         }
       }
     },
@@ -2194,6 +2740,12 @@
             "state" : "translated",
             "value" : "在目录列表中显示“..”项"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ一覧に「..」を表示"
+          }
         }
       }
     },
@@ -2214,6 +2766,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌥"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⌥"
@@ -2242,6 +2800,12 @@
             "state" : "translated",
             "value" : "1"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
         }
       }
     },
@@ -2265,6 +2829,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "30 秒"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30秒"
           }
         }
       }
@@ -2290,6 +2860,12 @@
             "state" : "translated",
             "value" : "布局"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レイアウト"
+          }
         }
       }
     },
@@ -2313,6 +2889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "网络连接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネットワーク接続"
           }
         }
       }
@@ -2338,6 +2920,12 @@
             "state" : "translated",
             "value" : "列表"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リスト"
+          }
         }
       }
     },
@@ -2361,6 +2949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "始终"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常にする"
           }
         }
       }
@@ -2386,6 +2980,12 @@
             "state" : "translated",
             "value" : "模糊"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あいまい検索"
+          }
         }
       }
     },
@@ -2409,6 +3009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "宽度："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幅:"
           }
         }
       }
@@ -2434,6 +3040,12 @@
             "state" : "translated",
             "value" : "末端"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "末尾"
+          }
         }
       }
     },
@@ -2457,6 +3069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "显示查询"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索文字列を表示"
           }
         }
       }
@@ -2482,6 +3100,12 @@
             "state" : "translated",
             "value" : "开头"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "先頭"
+          }
         }
       }
     },
@@ -2505,6 +3129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索时："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索時:"
           }
         }
       }
@@ -2530,6 +3160,12 @@
             "state" : "translated",
             "value" : "已停用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
+          }
         }
       }
     },
@@ -2553,6 +3189,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "初始窗口："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最初のウインドウ:"
           }
         }
       }
@@ -2578,6 +3220,12 @@
             "state" : "translated",
             "value" : "画廊"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ギャラリー"
+          }
         }
       }
     },
@@ -2601,6 +3249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "固定列宽"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列幅を固定"
           }
         }
       }
@@ -2626,6 +3280,12 @@
             "state" : "translated",
             "value" : "列表"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リスト"
+          }
         }
       }
     },
@@ -2650,6 +3310,12 @@
             "state" : "translated",
             "value" : "任意位置"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全体"
+          }
         }
       }
     },
@@ -2670,6 +3336,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2"
@@ -2698,6 +3370,12 @@
             "state" : "translated",
             "value" : "已停用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無効"
+          }
         }
       }
     },
@@ -2722,6 +3400,12 @@
             "state" : "translated",
             "value" : "最小宽度："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最小幅:"
+          }
         }
       }
     },
@@ -2745,6 +3429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最短操作时间："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作時間の下限:"
           }
         }
       }
