@@ -1,0 +1,29 @@
+name: Japanese localization audit
+
+on:
+  push:
+    paths:
+      - 'Source/**/*.xcstrings'
+      - 'Scripts/audit_japanese_localization.py'
+      - 'Scripts/tests/**'
+      - '.github/workflows/japanese-localization.yml'
+  pull_request:
+    paths:
+      - 'Source/**/*.xcstrings'
+      - 'Scripts/audit_japanese_localization.py'
+      - 'Scripts/tests/**'
+      - '.github/workflows/japanese-localization.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Japanese coverage and format arguments
+        run: python3 Scripts/audit_japanese_localization.py --check
+      - name: Test the localization auditor
+        run: python3 -m unittest discover -s Scripts/tests -v
