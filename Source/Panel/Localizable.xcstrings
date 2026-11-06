@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "清除最近记录"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の履歴を消去"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "按掩码取消选择文件："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターンでファイルの選択を解除:"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "掩码“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターン「%@」"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "掩码：*、或 *.t?t、或 *.txt,*.jpg"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターン: *、*.t?t、*.txt,*.jpg"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "新建工具"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規ツール"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选项"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オプション"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "最近的搜索"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近の検索"
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正则“%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現「%@」"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "正则表达式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正则表达式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "按掩码选择文件："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パターンでファイルを選択:"
+          }
         }
       }
     },
@@ -202,6 +268,12 @@
             "state" : "translated",
             "value" : "指定用于匹配文件名的正则表达式。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名に一致させる正規表現を指定します。"
+          }
         }
       }
     },
@@ -218,6 +290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用“*”作为多字符通配符，“?”作为单字符通配符，并使用“,”指定多个掩码。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「*」は任意の文字列、「?」は任意の1文字に一致します。複数のパターンは「,」で区切ります。"
           }
         }
       }

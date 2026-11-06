@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "窗口"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.title"
+          }
         }
       }
     },
@@ -39,6 +45,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "前往"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動"
+          }
         }
       }
     },
@@ -87,6 +105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "前往文件夹："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動先のフォルダ:"
           }
         }
       }

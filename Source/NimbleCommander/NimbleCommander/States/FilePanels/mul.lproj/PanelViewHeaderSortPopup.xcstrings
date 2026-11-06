@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "创建时间 ↓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成日時 ↓"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建时间 ↑"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成日時 ↑"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "添加时间 ↑"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加日時 ↑"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选项"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オプション"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "扩展名 ↓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張子 ↓"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "访问时间 ↑"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセス日時 ↑"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "不区分大小写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字を区別しない"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "修改时间 ↓"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更日時 ↓"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "大小 ↓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ ↓"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自然"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自然順"
           }
         }
       }
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "大小 ↑"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ ↑"
+          }
         }
       }
     },
@@ -285,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "区分大小写"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字を区別する"
           }
         }
       }
@@ -310,6 +382,12 @@
             "state" : "translated",
             "value" : "修改时间 ↑"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更日時 ↑"
+          }
         }
       }
     },
@@ -333,6 +411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "名称 ↑"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前 ↑"
           }
         }
       }
@@ -358,6 +442,12 @@
             "state" : "translated",
             "value" : "文件夹与文件分开显示"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダとファイルを分ける"
+          }
         }
       }
     },
@@ -381,6 +471,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "访问时间 ↓"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセス日時 ↓"
           }
         }
       }
@@ -406,6 +502,12 @@
             "state" : "translated",
             "value" : "扩展名 ↑"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張子 ↑"
+          }
         }
       }
     },
@@ -429,6 +531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "排序方式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "並べ替え"
           }
         }
       }
@@ -454,6 +562,12 @@
             "state" : "translated",
             "value" : "添加时间 ↓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加日時 ↓"
+          }
         }
       }
     },
@@ -477,6 +591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "名称 ↓"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前 ↓"
           }
         }
       }
@@ -502,6 +622,12 @@
             "state" : "translated",
             "value" : "比较方式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "比較方法"
+          }
         }
       }
     },
@@ -525,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无扩展名的文件夹"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダの拡張子を無視"
           }
         }
       }
