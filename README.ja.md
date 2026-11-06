@@ -12,6 +12,7 @@
 - [設定画面の日本語化と検証](Docs/LOCALIZATION_PREFERENCES_JA.md)
 - [検索・接続・ビューアの日本語化と検証](Docs/LOCALIZATION_SEARCH_CONNECTIONS_VIEWER_JA.md)
 - [日本語化の全体監査と残作業](Docs/LOCALIZATION_AUDIT_JA.md)
+- [日本語UIの表示校正記録](Docs/JAPANESE_UI_PROOFREADING_JA.md)
 - [Forkの変更履歴](Docs/CHANGELOG_JA.md)
 - [上流の変更履歴](WHATS_NEW.md)
 - [GPL v3 ライセンス](LICENSE.md)

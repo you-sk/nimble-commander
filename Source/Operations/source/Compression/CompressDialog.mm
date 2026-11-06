@@ -77,6 +77,7 @@
     else
         self.destinationTitleTextField.stringValue = [NSString
             stringWithFormat:localizable::CompressionDiaglogCompressItemToTitle(), m_SourceItems.front().FilenameNS()];
+    self.destinationTitleTextField.toolTip = self.destinationTitleTextField.stringValue;
 }
 
 - (void)validate
