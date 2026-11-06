@@ -13,8 +13,11 @@
 - [検索・接続・ビューアの日本語化と検証](Docs/LOCALIZATION_SEARCH_CONNECTIONS_VIEWER_JA.md)
 - [日本語化の全体監査と残作業](Docs/LOCALIZATION_AUDIT_JA.md)
 - [日本語UIの表示校正記録](Docs/JAPANESE_UI_PROOFREADING_JA.md)
+- [起動時の案内・更新方針](Docs/FORK_STARTUP_POLICY_JA.md)
 - [Forkの変更履歴](Docs/CHANGELOG_JA.md)
 - [上流の変更履歴](WHATS_NEW.md)
 - [GPL v3 ライセンス](LICENSE.md)
 
 原著作者の著作権表示と上流履歴を保持します。特権ヘルパーには適切な署名が必要です。未署名ビルドの管理者操作には制約があります。バイナリの公開は初回調査の対象外です。
+
+このForkでは上流公式版の自動更新確認と手動更新メニュー、起動時のアプリケーションフォルダへの移動案内を無効にしています。更新はこのForkのソースからビルドしてください。公式配布版を取得すると日本語化の変更は含まれません。

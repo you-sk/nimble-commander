@@ -9,8 +9,6 @@
 #include "VFSInit.h"
 #include "Interactions.h"
 #include "NCHelpMenuDelegate.h"
-#include "SparkleShim.h"
-#include "PFMoveToApplicationsShim.h"
 #include "NativeVFSHostInstance.h"
 #include "Actions.h"
 
@@ -396,18 +394,12 @@ static NCAppDelegate *g_Me = nil;
 
     // Non-MAS version extended logic below:
     if( !nc::base::AmISandboxed() ) {
-        // setup Sparkle updater stuff
-        NSMenuItem *item = [[NSMenuItem alloc] init];
-        item.title = NSLocalizedString(@"Check for Updates...",
-                                       "Menu item title for check if any Nimble Commander updates are available");
-        item.target = NCBootstrapSharedSUUpdaterInstance();
-        item.action = NCBootstrapSUUpdaterAction();
-        [[NSApp.mainMenu itemAtIndex:0].submenu insertItem:item atIndex:1];
-
+        // This fork must not start the upstream updater or offer upstream binary updates.
+        // Updates are obtained from the fork's source repository instead.
         if( GlobalConfig().GetBool(g_ConfigForceFn) )
             nc::utility::FunctionalKeysPass::Instance().Enable(); // accessibility - remapping functional keys FnXX
 
-        PFMoveToApplicationsFolderIfNecessary();
+        // Keep the application at the location chosen by the user; do not prompt to move it.
     }
 
     m_ConfigWiring = std::make_unique<ConfigWiring>(GlobalConfig(), m_PoolEnqueueFilter);
