@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "标签"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ラベル"
+          }
         }
       }
     }

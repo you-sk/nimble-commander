@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "仅文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルのみ"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "参数："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引数:"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "好"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "文件掩码："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名のパターン:"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在终端中运行"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ターミナルで実行"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "*、*.*、*.cpp、*.*m 等"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "*, *.*, *.cpp, *.*m, etc."
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "名称："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前:"
+          }
         }
       }
     },
@@ -234,6 +288,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%%"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%%"
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "所有 %% 都将替换为文件路径。你可以使用反斜杠转义空格，使其不被解释为参数分隔符。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%%はファイルのパスに置き換えられます。空白を引数の区切りとして扱わない場合は、バックスラッシュでエスケープできます。"
+          }
         }
       }
     },
@@ -285,6 +351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "应用程序路径："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリケーションのパス:"
           }
         }
       }

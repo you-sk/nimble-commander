@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "%1$@ “%2$@”至“%3$@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@「%@」→「%@」"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ %2$@ 个项目至“%3$@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %@項目 →「%@」"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "%1$@ / %2$@"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ / %@"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ / %2$@ - %3$@/秒"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ / %@ - %@/秒"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "%1$@ / %2$@ - %3$@/秒，%4$@"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ / %@ - %@/秒、%@"
+          }
         }
       }
     },
@@ -94,6 +124,12 @@
             "state" : "translated",
             "value" : "%1$@ / %2$@ - 已暂停"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ / %@ - 一時停止中"
+          }
         }
       }
     },
@@ -109,6 +145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ / %2$@，%3$@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ / %@、%@"
           }
         }
       }
@@ -127,6 +169,12 @@
             "state" : "translated",
             "value" : "%1$@ 至 “%2$@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ →「%@」"
+          }
         }
       }
     },
@@ -139,6 +187,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中止"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "中止"
@@ -159,6 +213,12 @@
             "state" : "translated",
             "value" : "正在更改符号链接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボリックリンクを変更中"
+          }
         }
       }
     },
@@ -175,6 +235,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在更改文件属性"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルの属性を変更中"
           }
         }
       }
@@ -193,6 +259,12 @@
             "state" : "translated",
             "value" : "正在批量重命名 %@ 个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目の名前を一括変更中"
+          }
         }
       }
     },
@@ -208,6 +280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法删除已锁定的项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロックされた項目は削除できません"
           }
         }
       }
@@ -225,6 +303,12 @@
             "state" : "translated",
             "value" : "无法将已锁定的项目移到废纸篓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロックされた項目はゴミ箱に入れられません"
+          }
         }
       }
     },
@@ -240,6 +324,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法打开已锁定的项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロックされた項目は開けません"
           }
         }
       }
@@ -258,6 +348,12 @@
             "state" : "translated",
             "value" : "无法移除正在重命名的最后一个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を変更する最後の項目は除外できません"
+          }
         }
       }
     },
@@ -273,6 +369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法重命名已锁定的项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロックされた項目の名前は変更できません"
           }
         }
       }
@@ -291,6 +393,12 @@
             "state" : "translated",
             "value" : "更改“%@”的文件属性"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」のファイル属性を変更"
+          }
         }
       }
     },
@@ -308,6 +416,12 @@
             "state" : "translated",
             "value" : "更改 %@ 个所选项目的文件属性"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選択した%@項目のファイル属性を変更"
+          }
         }
       }
     },
@@ -323,6 +437,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "校验和验证失败"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チェックサムの検証に失敗しました"
           }
         }
       }
@@ -340,6 +460,12 @@
             "state" : "translated",
             "value" : "正在清理…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "後処理中…"
+          }
         }
       }
     },
@@ -355,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关闭"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
           }
         }
       }
@@ -373,6 +505,12 @@
             "state" : "translated",
             "value" : "将“%@”压缩到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」の圧縮先:"
+          }
         }
       }
     },
@@ -390,6 +528,12 @@
             "state" : "translated",
             "value" : "将 %@ 个项目压缩到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目の圧縮先:"
+          }
         }
       }
     },
@@ -406,6 +550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在压缩“%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を圧縮中"
           }
         }
       }
@@ -451,6 +601,12 @@
             "state" : "translated",
             "value" : "正在压缩 %d 个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d項目を圧縮中"
+          }
         }
       }
     },
@@ -466,6 +622,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
           }
         }
       }
@@ -484,6 +646,12 @@
             "state" : "translated",
             "value" : "将“%@”拷贝到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」のコピー先:"
+          }
         }
       }
     },
@@ -500,6 +668,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "将 %@ 个项目拷贝到："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目のコピー先:"
           }
         }
       }
@@ -518,6 +692,12 @@
             "state" : "translated",
             "value" : "正在拷贝"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー中"
+          }
         }
       }
     },
@@ -533,6 +713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "创建“%@”的硬链接到："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」のハードリンクの作成先:"
           }
         }
       }
@@ -551,6 +737,12 @@
             "state" : "translated",
             "value" : "正在新建目录“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ「%@」を作成中"
+          }
         }
       }
     },
@@ -567,6 +759,12 @@
             "state" : "translated",
             "value" : "正在新建硬链接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規ハードリンクを作成中"
+          }
         }
       }
     },
@@ -582,6 +780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在新建符号链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規シンボリックリンクを作成中"
           }
         }
       }
@@ -600,6 +804,12 @@
             "state" : "translated",
             "value" : "永久删除"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完全に削除"
+          }
         }
       }
     },
@@ -616,6 +826,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在删除“%@”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を削除中"
           }
         }
       }
@@ -634,6 +850,12 @@
             "state" : "translated",
             "value" : "正在删除 %@ 个项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目を削除中"
+          }
         }
       }
     },
@@ -650,6 +872,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "要删除“%@”吗？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」を削除しますか？"
           }
         }
       }
@@ -668,6 +896,12 @@
             "state" : "translated",
             "value" : "要删除 %@ 个项目吗？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目を削除しますか？"
+          }
         }
       }
     },
@@ -683,6 +917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法访问目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダにアクセスできませんでした"
           }
         }
       }
@@ -700,6 +940,12 @@
             "state" : "translated",
             "value" : "无法访问文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルにアクセスできませんでした"
+          }
         }
       }
     },
@@ -715,6 +961,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法访问项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目にアクセスできませんでした"
           }
         }
       }
@@ -732,6 +984,12 @@
             "state" : "translated",
             "value" : "无法更改符号链接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボリックリンクを変更できませんでした"
+          }
         }
       }
     },
@@ -747,6 +1005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法新建目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダを作成できませんでした"
           }
         }
       }
@@ -764,6 +1028,12 @@
             "state" : "translated",
             "value" : "无法创建硬链接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハードリンクを作成できませんでした"
+          }
         }
       }
     },
@@ -779,6 +1049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法创建符号链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボリックリンクを作成できませんでした"
           }
         }
       }
@@ -796,6 +1072,12 @@
             "state" : "translated",
             "value" : "无法删除目标文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー先のファイルを削除できませんでした"
+          }
         }
       }
     },
@@ -811,6 +1093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法删除目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダを削除できませんでした"
           }
         }
       }
@@ -828,6 +1116,12 @@
             "state" : "translated",
             "value" : "无法删除文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを削除できませんでした"
+          }
         }
       }
     },
@@ -843,6 +1137,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法删除源项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元の項目を削除できませんでした"
           }
         }
       }
@@ -860,6 +1160,12 @@
             "state" : "translated",
             "value" : "无法将项目移到废纸篓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目をゴミ箱に入れられませんでした"
+          }
         }
       }
     },
@@ -875,6 +1181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法打开目标文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー先のファイルを開けませんでした"
           }
         }
       }
@@ -892,6 +1204,12 @@
             "state" : "translated",
             "value" : "无法执行 chflags"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chflagsを実行できませんでした"
+          }
         }
       }
     },
@@ -907,6 +1225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法执行 chmod"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chmodを実行できませんでした"
           }
         }
       }
@@ -924,6 +1248,12 @@
             "state" : "translated",
             "value" : "无法执行 chown"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "chownを実行できませんでした"
+          }
         }
       }
     },
@@ -939,6 +1269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法读取目标文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー先のファイルを読み込めませんでした"
           }
         }
       }
@@ -956,6 +1292,12 @@
             "state" : "translated",
             "value" : "无法读取文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルを読み込めませんでした"
+          }
         }
       }
     },
@@ -971,6 +1313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法读取源文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元のファイルを読み込めませんでした"
           }
         }
       }
@@ -988,6 +1336,12 @@
             "state" : "translated",
             "value" : "无法重命名项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目の名前を変更できませんでした"
+          }
         }
       }
     },
@@ -1003,6 +1357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法设置文件时间"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルの日時を設定できませんでした"
           }
         }
       }
@@ -1020,6 +1380,12 @@
             "state" : "translated",
             "value" : "无法解锁项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目のロックを解除できませんでした"
+          }
         }
       }
     },
@@ -1035,6 +1401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无法写入文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルに書き込めませんでした"
           }
         }
       }
@@ -1052,6 +1424,12 @@
             "state" : "translated",
             "value" : "无法写入归档"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーカイブに書き込めませんでした"
+          }
         }
       }
     },
@@ -1067,6 +1445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "项目不是目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目はフォルダではありません"
           }
         }
       }
@@ -1085,6 +1469,12 @@
             "state" : "translated",
             "value" : "移到废纸篓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゴミ箱に入れる"
+          }
         }
       }
     },
@@ -1102,6 +1492,12 @@
             "state" : "translated",
             "value" : "正在移动"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動中"
+          }
         }
       }
     },
@@ -1117,6 +1513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "覆盖"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上書き"
           }
         }
       }
@@ -1134,6 +1536,12 @@
             "state" : "translated",
             "value" : "正在准备拷贝“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」のコピーを準備中"
+          }
         }
       }
     },
@@ -1149,6 +1557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在准备拷贝 %@ 个项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目のコピーを準備中"
           }
         }
       }
@@ -1166,6 +1580,12 @@
             "state" : "translated",
             "value" : "正在准备移动“%@”"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」の移動を準備中"
+          }
         }
       }
     },
@@ -1181,6 +1601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在准备移动 %@ 个项目"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目の移動を準備中"
           }
         }
       }
@@ -1199,6 +1625,12 @@
             "state" : "translated",
             "value" : "将“%@”重命名/移动到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」の変更後の名前／移動先:"
+          }
         }
       }
     },
@@ -1216,6 +1648,12 @@
             "state" : "translated",
             "value" : "将 %@ 个项目重命名/移动到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@項目の変更後の名前／移動先:"
+          }
         }
       }
     },
@@ -1231,6 +1669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重试"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再試行"
           }
         }
       }
@@ -1248,6 +1692,12 @@
             "state" : "translated",
             "value" : "跳过"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スキップ"
+          }
         }
       }
     },
@@ -1263,6 +1713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全部跳过"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてスキップ"
           }
         }
       }
@@ -1280,6 +1736,12 @@
             "state" : "translated",
             "value" : "符号链接“%@”指向："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シンボリックリンク「%@」のリンク先:"
+          }
         }
       }
     },
@@ -1295,6 +1757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "解锁"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ロックを解除"
           }
         }
       }
@@ -1312,6 +1780,12 @@
             "state" : "translated",
             "value" : "正在验证操作结果…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "操作結果を検証中…"
+          }
         }
       }
     },
@@ -1327,6 +1801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在队列中等待…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行待ち…"
           }
         }
       }

@@ -81,9 +81,9 @@ Gw
                             <outlet property="delegate" destination="-2" id="HvT-20-R7F"/>
                         </connections>
                     </textField>
-                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="sfe-25-dPf">
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" horizontalCompressionResistancePriority="249" translatesAutoresizingMaskIntoConstraints="NO" id="sfe-25-dPf">
                         <rect key="frame" x="18" y="140" width="122" height="17"/>
-                        <textFieldCell key="cell" lineBreakMode="clipping" title="Compress items to:" id="4Dh-kj-AYe">
+                        <textFieldCell key="cell" lineBreakMode="truncatingMiddle" usesSingleLineMode="YES" title="Compress items to:" id="4Dh-kj-AYe">
                             <font key="font" metaFont="system"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -124,6 +124,7 @@ Gw
                 <constraints>
                     <constraint firstAttribute="bottom" secondItem="RZR-re-mhm" secondAttribute="bottom" constant="20" symbolic="YES" id="1bK-IO-QGb"/>
                     <constraint firstItem="sfe-25-dPf" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" constant="20" symbolic="YES" id="641-jZ-gby"/>
+                    <constraint firstAttribute="trailing" secondItem="sfe-25-dPf" secondAttribute="trailing" constant="20" symbolic="YES" id="pmt-Rg-002"/>
                     <constraint firstItem="4ep-eG-eMc" firstAttribute="leading" secondItem="se5-gp-TjO" secondAttribute="leading" constant="20" symbolic="YES" id="B5X-VQ-lfu"/>
                     <constraint firstItem="qUL-dQ-JyV" firstAttribute="leading" secondItem="4ep-eG-eMc" secondAttribute="leading" constant="24" id="C2K-jl-UMq"/>
                     <constraint firstItem="Xkn-9n-JfE" firstAttribute="top" secondItem="sfe-25-dPf" secondAttribute="bottom" constant="6" id="ID5-bi-Esq"/>

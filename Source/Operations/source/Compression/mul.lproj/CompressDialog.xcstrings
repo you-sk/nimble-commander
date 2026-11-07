@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "将项目压缩到："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮先:"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "压缩"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "使用密码保护："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードで保護:"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "显示"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示"
           }
         }
       }

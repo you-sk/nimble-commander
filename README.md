@@ -1,3 +1,7 @@
+[日本語版Forkについて](README.ja.md) — Japanese localization is available for the main menu, core file-operation dialogs, preference tabs, search and connection dialogs, and the viewer; the remaining built-in String Catalogs also have Japanese coverage, with full visual validation ongoing.
+
+This fork does not start the upstream updater or offer its update menu, and does not prompt to move itself to Applications. Build updates from this fork; upstream binaries do not include these changes.
+
 [![Build and Test](https://github.com/mikekazakov/nimble-commander/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/mikekazakov/nimble-commander/actions/workflows/build.yml)
 [![Nightly Build](https://github.com/mikekazakov/nimble-commander/actions/workflows/nightly.yml/badge.svg?branch=main)](https://github.com/mikekazakov/nimble-commander/actions/workflows/nightly.yml)
 

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "删除、移到废纸篓"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除・ゴミ箱に入れる"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "选择哪些操作应排队。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "待ち行列に入れる操作を選択してください。 "
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "新建目录"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ作成"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "压缩"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "批量重命名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前の一括変更"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改属性"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "属性変更"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "拷贝、移动、重命名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー・移動・名前変更"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "好"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "未勾选的操作将始终立即开始。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チェックのない操作は常にすぐに開始します。"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リンク"
           }
         }
       }

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "前往"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "前往"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動先"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "百分比 (%)"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "割合 (%)"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "偏移量 (B)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オフセット (B)"
           }
         }
       }

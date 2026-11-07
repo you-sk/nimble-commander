@@ -30,12 +30,12 @@
         <customView translatesAutoresizingMaskIntoConstraints="NO" id="oVI-wD-asY" userLabel="Path">
             <rect key="frame" x="0.0" y="0.0" width="340" height="71"/>
             <subviews>
-                <textField verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="12">
+                <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="249" translatesAutoresizingMaskIntoConstraints="NO" id="12">
                     <rect key="frame" x="18" y="35" width="104" height="16"/>
                     <constraints>
                         <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="BH4-3a-y1C"/>
                     </constraints>
-                    <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" usesSingleLineMode="YES" id="13">
+                    <textFieldCell key="cell" lineBreakMode="truncatingMiddle" sendsActionOnEndEditing="YES" usesSingleLineMode="YES" id="13">
                         <font key="font" metaFont="system"/>
                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                         <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -60,6 +60,7 @@
                 <constraint firstItem="5" firstAttribute="leading" secondItem="oVI-wD-asY" secondAttribute="leading" constant="20" symbolic="YES" id="53R-aD-ODk"/>
                 <constraint firstAttribute="trailing" secondItem="5" secondAttribute="trailing" constant="20" symbolic="YES" id="VOw-a2-Emi"/>
                 <constraint firstItem="12" firstAttribute="leading" secondItem="oVI-wD-asY" secondAttribute="leading" constant="20" symbolic="YES" id="syr-Zg-DkF"/>
+                <constraint firstAttribute="trailing" secondItem="12" secondAttribute="trailing" constant="20" symbolic="YES" id="pmt-Rg-001"/>
                 <constraint firstAttribute="bottom" secondItem="5" secondAttribute="bottom" constant="6" id="vIG-xL-hi4"/>
                 <constraint firstItem="12" firstAttribute="top" secondItem="oVI-wD-asY" secondAttribute="top" constant="20" symbolic="YES" id="vPR-jX-cCV"/>
                 <constraint firstItem="5" firstAttribute="top" secondItem="12" secondAttribute="bottom" constant="8" symbolic="YES" id="wya-Y0-uaF"/>

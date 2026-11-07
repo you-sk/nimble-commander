@@ -127,6 +127,7 @@ static std::string CopyingDialogMakeCanonicPath(std::string _input)
     [super windowDidLoad];
     [self.DisclosedViewController toggleDisclosure:self];
     [self.StackView insertView:self.PathPart atIndex:0 inGravity:NSStackViewGravityTop];
+    [self.PathPart.widthAnchor constraintEqualToAnchor:self.StackView.widthAnchor].active = true;
     [self.StackView insertView:self.DisclosedViewController.view atIndex:0 inGravity:NSStackViewGravityBottom];
     [self.StackView insertView:self.ButtonsPart atIndex:1 inGravity:NSStackViewGravityBottom];
     [self.window.contentView updateConstraintsForSubtreeIfNeeded];
@@ -163,6 +164,7 @@ static std::string CopyingDialogMakeCanonicPath(std::string _input)
                                            [NSString stringWithUTF8String:m_SourceItems.front().FilenameC()]];
         self.CopyButton.title = self.RenameButtonStringStub.title;
     }
+    self.DescriptionText.toolTip = self.DescriptionText.stringValue;
     [self.VerifySetting selectItemWithTag:static_cast<int>(m_Options.verification)];
 }
 

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "深色主题："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダークテーマ: "
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "好"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
         }
       }
     },
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "浅色主题："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライトテーマ: "
+          }
         }
       }
     },
@@ -117,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "macOS 外观更改时切换："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOSの外観が変わったら切り替える:"
           }
         }
       }

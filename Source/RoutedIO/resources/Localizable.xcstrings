@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "请以管理员身份进行认证，以向 Nimble Commander 提供额外权限"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commanderに追加の権限を与えるには、管理者として認証してください"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请以管理员身份进行认证，以允许 Nimble Commander 安装附加组件。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commanderによる追加コンポーネントのインストールを許可するには、管理者として認証してください。"
           }
         }
       }

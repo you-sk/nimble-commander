@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "你希望如何导入此主题？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テーマの読み込み方法を選んでください。"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "覆盖当前主题设置"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のテーマ設定を上書き"
+          }
         }
       }
     },
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "作为新主题导入："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいテーマとして読み込む:"
+          }
         }
       }
     },
@@ -117,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込む"
           }
         }
       }

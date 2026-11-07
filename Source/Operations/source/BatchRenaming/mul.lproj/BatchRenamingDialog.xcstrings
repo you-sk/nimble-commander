@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "[A x-y] 从第 x 到第 y 个字符，用空格填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A x-y] x文字目からy文字目（空白で埋める）"
+          }
         }
       }
     },
@@ -42,6 +48,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "7"
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "^O"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^O"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Nx-y] 从第 x 到第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nx-y] x文字目からy文字目"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "[E0x-y] 从第 x 到第 y 个字符，用零填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E0x-y] x文字目からy文字目（0で埋める）"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[N0x-y] 从第 x 到第 y 个字符，用零填充"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N0x-y] x文字目からy文字目（0で埋める）"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "插入扩展名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張子を挿入"
+          }
         }
       }
     },
@@ -190,6 +232,12 @@
             "state" : "translated",
             "value" : "[s] 两位数的秒"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[s] 秒（2桁）"
+          }
         }
       }
     },
@@ -210,6 +258,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘↩"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⌘↩"
@@ -238,6 +292,12 @@
             "state" : "translated",
             "value" : "[Gx-] 从第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Gx-] x文字目以降"
+          }
         }
       }
     },
@@ -258,6 +318,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "4"
@@ -286,6 +352,12 @@
             "state" : "translated",
             "value" : "[N-x-] 从倒数第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N-x-] 末尾からx文字目以降"
+          }
         }
       }
     },
@@ -309,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[M] 两位数的月份"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[M] 月（2桁）"
           }
         }
       }
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "[C] 计数器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[C] カウンタ"
+          }
         }
       }
     },
@@ -354,6 +438,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^T"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^T"
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "[Gx-y] 从第 x 到第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Gx-y] x文字目からy文字目"
+          }
         }
       }
     },
@@ -405,6 +501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "好"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         }
       }
@@ -430,6 +532,12 @@
             "state" : "translated",
             "value" : "[Nx--y] 从第 x 个到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nx--y] x文字目から末尾のy文字目まで"
+          }
         }
       }
     },
@@ -453,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[YMD] 日期"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[YMD] 日付"
           }
         }
       }
@@ -478,6 +592,12 @@
             "state" : "translated",
             "value" : "[m] 两位数的分钟"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[m] 分（2桁）"
+          }
         }
       }
     },
@@ -498,6 +618,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^D"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^D"
@@ -526,6 +652,12 @@
             "state" : "translated",
             "value" : "保持不变"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更しない"
+          }
         }
       }
     },
@@ -550,6 +682,12 @@
             "state" : "translated",
             "value" : "插入名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を挿入"
+          }
         }
       }
     },
@@ -570,6 +708,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E]"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[E]"
@@ -598,6 +742,12 @@
             "state" : "translated",
             "value" : "[Px--y] 从第 x 个到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Px--y] x文字目から末尾のy文字目まで"
+          }
         }
       }
     },
@@ -618,6 +768,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "5"
@@ -646,6 +802,12 @@
             "state" : "translated",
             "value" : "更改大小写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字を変換"
+          }
         }
       }
     },
@@ -666,6 +828,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "8"
@@ -694,6 +862,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -717,6 +891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Nx,y] 从第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nx,y] x文字目からy文字"
           }
         }
       }
@@ -742,6 +922,12 @@
             "state" : "translated",
             "value" : "[Cx+y/z:w] -\"\"-，宽度为 w"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Cx+y/z:w] 同上（桁数w）"
+          }
         }
       }
     },
@@ -762,6 +948,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^A"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^A"
@@ -790,6 +982,12 @@
             "state" : "translated",
             "value" : "步长："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "増分:"
+          }
         }
       }
     },
@@ -813,6 +1011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[E] 扩展名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E] 拡張子"
           }
         }
       }
@@ -838,6 +1042,12 @@
             "state" : "translated",
             "value" : "[Px] 文件名的第 x 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Px] ファイル名のx文字目"
+          }
         }
       }
     },
@@ -861,6 +1071,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "]] 右方括号"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "]] 閉じ角括弧"
           }
         }
       }
@@ -886,6 +1102,12 @@
             "state" : "translated",
             "value" : "[G-x-] 从倒数第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G-x-] 末尾からx文字目以降"
+          }
         }
       }
     },
@@ -909,6 +1131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已重命名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更後"
           }
         }
       }
@@ -934,6 +1162,12 @@
             "state" : "translated",
             "value" : "[A0x-y] 从第 x 到第 y 个字符，用零填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A0x-y] x文字目からy文字目（0で埋める）"
+          }
         }
       }
     },
@@ -957,6 +1191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "起始于："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開始値:"
           }
         }
       }
@@ -982,6 +1222,12 @@
             "state" : "translated",
             "value" : "[Px-] 从第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Px-] x文字目以降"
+          }
         }
       }
     },
@@ -1005,6 +1251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Px-y] 从第 x 到第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Px-y] x文字目からy文字目"
           }
         }
       }
@@ -1030,6 +1282,12 @@
             "state" : "translated",
             "value" : "[U] 大写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[U] 大文字"
+          }
         }
       }
     },
@@ -1050,6 +1308,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^R"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^R"
@@ -1078,6 +1342,12 @@
             "state" : "translated",
             "value" : "移除项目"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "項目を除外"
+          }
         }
       }
     },
@@ -1098,6 +1368,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^N"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^N"
@@ -1126,6 +1402,12 @@
             "state" : "translated",
             "value" : "[E-x-] 从倒数第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E-x-] 末尾からx文字目以降"
+          }
         }
       }
     },
@@ -1149,6 +1431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "插入扩展名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張子を挿入"
           }
         }
       }
@@ -1174,6 +1462,12 @@
             "state" : "translated",
             "value" : "插入文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名を挿入"
+          }
         }
       }
     },
@@ -1197,6 +1491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[P x-y] 从第 x 到第 y 个字符，用空格填充"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P x-y] x文字目からy文字目（空白で埋める）"
           }
         }
       }
@@ -1222,6 +1522,12 @@
             "state" : "translated",
             "value" : "[y] 两位数的年份"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[y] 年（2桁）"
+          }
         }
       }
     },
@@ -1245,6 +1551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[E] 扩展名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E] 拡張子"
           }
         }
       }
@@ -1270,6 +1582,12 @@
             "state" : "translated",
             "value" : "插入计数器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カウンタを挿入"
+          }
         }
       }
     },
@@ -1293,6 +1611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ex-] 从第 x 个字符开始的字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ex-] x文字目以降"
           }
         }
       }
@@ -1318,6 +1642,12 @@
             "state" : "translated",
             "value" : "[Ax-y] 从第 x 到第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ax-y] x文字目からy文字目"
+          }
         }
       }
     },
@@ -1341,6 +1671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ax--y] 从第 x 个到倒数第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ax--y] x文字目から末尾のy文字目まで"
           }
         }
       }
@@ -1366,6 +1702,12 @@
             "state" : "translated",
             "value" : "[F] 每个单词首字母大写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[F] 各単語の先頭を大文字に"
+          }
         }
       }
     },
@@ -1389,6 +1731,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ax] 文件名的第 x 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ax] ファイル名のx文字目"
           }
         }
       }
@@ -1414,6 +1762,12 @@
             "state" : "translated",
             "value" : "[N x-y] 从第 x 到第 y 个字符，用空格填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N x-y] x文字目からy文字目（空白で埋める）"
+          }
         }
       }
     },
@@ -1437,6 +1791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "位数："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "桁数:"
           }
         }
       }
@@ -1462,6 +1822,12 @@
             "state" : "translated",
             "value" : "[Gx] 文件名的第 x 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Gx] ファイル名のx文字目"
+          }
         }
       }
     },
@@ -1486,6 +1852,12 @@
             "state" : "translated",
             "value" : "原始"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更前"
+          }
         }
       }
     },
@@ -1506,6 +1878,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1x"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1x"
@@ -1534,6 +1912,12 @@
             "state" : "translated",
             "value" : "1"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
         }
       }
     },
@@ -1557,6 +1941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索内容："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索文字列:"
           }
         }
       }
@@ -1582,6 +1972,12 @@
             "state" : "translated",
             "value" : "重命名模式"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前変更パターン"
+          }
         }
       }
     },
@@ -1605,6 +2001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[n] 原始大小写"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[n] 元の大文字／小文字"
           }
         }
       }
@@ -1630,6 +2032,12 @@
             "state" : "translated",
             "value" : "[G x-y] 从第 x 到第 y 个字符，用空格填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G x-y] x文字目からy文字目（空白で埋める）"
+          }
         }
       }
     },
@@ -1653,6 +2061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[N-x-y] 从倒数第 x 到倒数第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N-x-y] 末尾からx文字目からy文字目まで"
           }
         }
       }
@@ -1678,6 +2092,12 @@
             "state" : "translated",
             "value" : "[C] 默认计数器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[C] 既定のカウンタ"
+          }
         }
       }
     },
@@ -1701,6 +2121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索并替换"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索と置換"
           }
         }
       }
@@ -1726,6 +2152,12 @@
             "state" : "translated",
             "value" : "[d] 本地化日期"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[d] 地域設定の日付"
+          }
         }
       }
     },
@@ -1749,6 +2181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ax-] 从第 x 个字符开始的字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ax-] x文字目以降"
           }
         }
       }
@@ -1774,6 +2212,12 @@
             "state" : "translated",
             "value" : "大写/小写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字"
+          }
         }
       }
     },
@@ -1797,6 +2241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ax,y] 从第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ax,y] x文字目からy文字"
           }
         }
       }
@@ -1822,6 +2272,12 @@
             "state" : "translated",
             "value" : "[P-x-y] 从倒数第 x 到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P-x-y] 末尾からx文字目からy文字目まで"
+          }
         }
       }
     },
@@ -1842,6 +2298,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aa"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aa"
@@ -1870,6 +2332,12 @@
             "state" : "translated",
             "value" : "[E-x-y] 从倒数第 x 到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E-x-y] 末尾からx文字目からy文字目まで"
+          }
         }
       }
     },
@@ -1893,6 +2361,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[hms] 时间"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[hms] 時刻"
           }
         }
       }
@@ -1918,6 +2392,12 @@
             "state" : "translated",
             "value" : "[Nx] 名称的第 x 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nx] 名前のx文字目"
+          }
         }
       }
     },
@@ -1941,6 +2421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[P-x-] 从倒数第 x 个字符开始的字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P-x-] 末尾からx文字目以降"
           }
         }
       }
@@ -1966,6 +2452,12 @@
             "state" : "translated",
             "value" : "插入计数器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カウンタを挿入"
+          }
         }
       }
     },
@@ -1986,6 +2478,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^L"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^L"
@@ -2014,6 +2512,12 @@
             "state" : "translated",
             "value" : "[Cx+y] -\"\"-，步长为 y "
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Cx+y] 同上（増分y） "
+          }
         }
       }
     },
@@ -2037,6 +2541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "定义计数器"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カウンタ設定"
           }
         }
       }
@@ -2062,6 +2572,12 @@
             "state" : "translated",
             "value" : "插入时间"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日時を挿入"
+          }
         }
       }
     },
@@ -2085,6 +2601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[N-x,y] 从倒数第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N-x,y] 末尾からx文字目を起点にy文字"
           }
         }
       }
@@ -2110,6 +2632,12 @@
             "state" : "translated",
             "value" : "[N] 名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N] 名前"
+          }
         }
       }
     },
@@ -2130,6 +2658,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2"
@@ -2158,6 +2692,12 @@
             "state" : "translated",
             "value" : "插入父文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "親フォルダ名を挿入"
+          }
         }
       }
     },
@@ -2182,6 +2722,12 @@
             "state" : "translated",
             "value" : "[D] 两位数的日"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[D] 日（2桁）"
+          }
         }
       }
     },
@@ -2202,6 +2748,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "9"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "9"
@@ -2230,6 +2782,12 @@
             "state" : "translated",
             "value" : "插入名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前を挿入"
+          }
         }
       }
     },
@@ -2254,6 +2812,12 @@
             "state" : "translated",
             "value" : "大写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字"
+          }
         }
       }
     },
@@ -2274,6 +2838,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^E"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^E"
@@ -2302,6 +2872,12 @@
             "state" : "translated",
             "value" : "插入文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名を挿入"
+          }
         }
       }
     },
@@ -2325,6 +2901,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ex--y] 从第 x 个到倒数第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ex--y] x文字目から末尾のy文字目まで"
           }
         }
       }
@@ -2350,6 +2932,12 @@
             "state" : "translated",
             "value" : "插入祖父文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "親の親フォルダ名を挿入"
+          }
         }
       }
     },
@@ -2370,6 +2958,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^P"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^P"
@@ -2398,6 +2992,12 @@
             "state" : "translated",
             "value" : "6"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6"
+          }
         }
       }
     },
@@ -2421,6 +3021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[P] 父文件名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P] 親フォルダ名"
           }
         }
       }
@@ -2446,6 +3052,12 @@
             "state" : "translated",
             "value" : "[G] 祖父文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G] 親の親フォルダ名"
+          }
         }
       }
     },
@@ -2469,6 +3081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Cx+y/z] -\"\"-，每 z 个文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Cx+y/z] 同上（zファイルごと）"
           }
         }
       }
@@ -2494,6 +3112,12 @@
             "state" : "translated",
             "value" : "插入父文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "親フォルダ名を挿入"
+          }
         }
       }
     },
@@ -2517,6 +3141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "插入祖父文件名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "親の親フォルダ名を挿入"
           }
         }
       }
@@ -2542,6 +3172,12 @@
             "state" : "translated",
             "value" : "替换为："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置換文字列:"
+          }
         }
       }
     },
@@ -2566,6 +3202,12 @@
             "state" : "translated",
             "value" : "插入时间"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日時を挿入"
+          }
         }
       }
     },
@@ -2586,6 +3228,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E]"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "[E]"
@@ -2614,6 +3262,12 @@
             "state" : "translated",
             "value" : "正则"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正規表現"
+          }
         }
       }
     },
@@ -2634,6 +3288,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^W"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^W"
@@ -2662,6 +3322,12 @@
             "state" : "translated",
             "value" : "小写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小文字"
+          }
         }
       }
     },
@@ -2685,6 +3351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[h] 两位数的 24 小时制小时"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[h] 時（24時間制・2桁）"
           }
         }
       }
@@ -2710,6 +3382,12 @@
             "state" : "translated",
             "value" : "[P-x,y] 从倒数第 x 个字符开始的 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P-x,y] 末尾からx文字目を起点にy文字"
+          }
         }
       }
     },
@@ -2733,6 +3411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Px,y] 从第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Px,y] x文字目からy文字"
           }
         }
       }
@@ -2758,6 +3442,12 @@
             "state" : "translated",
             "value" : "[Gx--y] 从第 x 个到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Gx--y] x文字目から末尾のy文字目まで"
+          }
         }
       }
     },
@@ -2778,6 +3468,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^I"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^I"
@@ -2806,6 +3502,12 @@
             "state" : "translated",
             "value" : "[E-x,y] 从倒数第 x 个字符开始的 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E-x,y] 末尾からx文字目を起点にy文字"
+          }
         }
       }
     },
@@ -2830,6 +3532,12 @@
             "state" : "translated",
             "value" : "[E x-y] 从第 x 到第 y 个字符，用空格填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[E x-y] x文字目からy文字目（空白で埋める）"
+          }
         }
       }
     },
@@ -2850,6 +3558,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^S"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^S"
@@ -2878,6 +3592,12 @@
             "state" : "translated",
             "value" : "[Ex] 扩展名的第 x 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ex] 拡張子のx文字目"
+          }
         }
       }
     },
@@ -2901,6 +3621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[A] 文件名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A] ファイル名"
           }
         }
       }
@@ -2926,6 +3652,12 @@
             "state" : "translated",
             "value" : "[Y] 四位数的年份"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Y] 年（4桁）"
+          }
         }
       }
     },
@@ -2946,6 +3678,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^C"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^C"
@@ -2974,6 +3712,12 @@
             "state" : "translated",
             "value" : "[P0x-y] 从第 x 到第 y 个字符，用零填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[P0x-y] x文字目からy文字目（0で埋める）"
+          }
         }
       }
     },
@@ -2997,6 +3741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[G-x-y] 从倒数第 x 到倒数第 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G-x-y] 末尾からx文字目からy文字目まで"
           }
         }
       }
@@ -3022,6 +3772,12 @@
             "state" : "translated",
             "value" : "[Nx-] 从第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Nx-] x文字目以降"
+          }
         }
       }
     },
@@ -3045,6 +3801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[Ex,y] 从第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ex,y] x文字目からy文字"
           }
         }
       }
@@ -3070,6 +3832,12 @@
             "state" : "translated",
             "value" : "[[ 左方括号"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[[ 開き角括弧"
+          }
         }
       }
     },
@@ -3094,6 +3862,12 @@
             "state" : "translated",
             "value" : "[A-x-] 从倒数第 x 个字符开始的字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A-x-] 末尾からx文字目以降"
+          }
         }
       }
     },
@@ -3114,6 +3888,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "3"
@@ -3142,6 +3922,12 @@
             "state" : "translated",
             "value" : "^U"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^U"
+          }
         }
       }
     },
@@ -3165,6 +3951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[L] 小写"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[L] 小文字"
           }
         }
       }
@@ -3190,6 +3982,12 @@
             "state" : "translated",
             "value" : "[A-x-y] 从倒数第 x 到倒数第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A-x-y] 末尾からx文字目からy文字目まで"
+          }
         }
       }
     },
@@ -3213,6 +4011,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[G-x,y] 从倒数第 x 个字符开始的 y 个字符"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G-x,y] 末尾からx文字目を起点にy文字"
           }
         }
       }
@@ -3238,6 +4042,12 @@
             "state" : "translated",
             "value" : "每个单词首字母大写"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "各単語の先頭を大文字に"
+          }
         }
       }
     },
@@ -3258,6 +4068,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "10"
@@ -3286,6 +4102,12 @@
             "state" : "translated",
             "value" : "其他"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他"
+          }
         }
       }
     },
@@ -3309,6 +4131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[t] 本地化时间"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[t] 地域設定の時刻"
           }
         }
       }
@@ -3334,6 +4162,12 @@
             "state" : "translated",
             "value" : "[Cx] 从 x 开始的计数器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Cx] xから始まるカウンタ"
+          }
         }
       }
     },
@@ -3357,6 +4191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改大小写"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大文字／小文字を変換"
           }
         }
       }
@@ -3382,6 +4222,12 @@
             "state" : "translated",
             "value" : "[Gx,y] 从第 x 个字符开始的 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Gx,y] x文字目からy文字"
+          }
         }
       }
     },
@@ -3405,6 +4251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "其他"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他"
           }
         }
       }
@@ -3430,6 +4282,12 @@
             "state" : "translated",
             "value" : "[Ex-y] 从第 x 到第 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Ex-y] x文字目からy文字目"
+          }
         }
       }
     },
@@ -3453,6 +4311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[N#-#] 范围"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N#-#] 範囲"
           }
         }
       }
@@ -3478,6 +4342,12 @@
             "state" : "translated",
             "value" : "[A-x,y] 从倒数第 x 个字符开始的 y 个字符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[A-x,y] 末尾からx文字目を起点にy文字"
+          }
         }
       }
     },
@@ -3502,6 +4372,12 @@
             "state" : "translated",
             "value" : "[G0x-y] 从第 x 到第 y 个字符，用零填充"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[G0x-y] x文字目からy文字目（0で埋める）"
+          }
         }
       }
     },
@@ -3525,6 +4401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "[N] 名称"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[N] 名前"
           }
         }
       }

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "UF_APPEND"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_APPEND"
+          }
         }
       }
     },
@@ -46,6 +52,12 @@
             "state" : "translated",
             "value" : "附加访问权限"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加のアクセス権"
+          }
         }
       }
     },
@@ -66,6 +78,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_FIRMLINK"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_FIRMLINK"
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "受跟踪"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追跡対象"
+          }
         }
       }
     },
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "处理子文件夹"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サブフォルダも処理"
+          }
         }
       }
     },
@@ -138,6 +168,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_IMMUTABLE"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_IMMUTABLE"
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "执行时设置 UID"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行時にUIDを設定"
+          }
         }
       }
     },
@@ -190,6 +232,12 @@
             "state" : "translated",
             "value" : "Firmlink"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファームリンク"
+          }
         }
       }
     },
@@ -210,6 +258,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "←"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "←"
@@ -238,6 +292,12 @@
             "state" : "translated",
             "value" : "好"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
         }
       }
     },
@@ -261,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已归档"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーカイブ済み"
           }
         }
       }
@@ -286,6 +352,12 @@
             "state" : "translated",
             "value" : "受限制"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "制限付き"
+          }
         }
       }
     },
@@ -309,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示"
           }
         }
       }
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "已压缩"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮済み"
+          }
         }
       }
     },
@@ -357,6 +441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "群组："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グループ:"
           }
         }
       }
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "读取"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読取"
+          }
         }
       }
     },
@@ -406,6 +502,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -426,6 +528,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_NOUNLINK"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_NOUNLINK"
@@ -454,6 +562,12 @@
             "state" : "translated",
             "value" : "无数据"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "データ未保持"
+          }
         }
       }
     },
@@ -477,6 +591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "修改时间："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更日時:"
           }
         }
       }
@@ -502,6 +622,12 @@
             "state" : "translated",
             "value" : "粘滞位"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スティッキービット"
+          }
         }
       }
     },
@@ -522,6 +648,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_DATAVAULT"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UF_DATAVAULT"
@@ -550,6 +682,12 @@
             "state" : "translated",
             "value" : "SF_RESTRICTED"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_RESTRICTED"
+          }
         }
       }
     },
@@ -573,6 +711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "执行时设置 GID"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行時にGIDを設定"
           }
         }
       }
@@ -598,6 +742,12 @@
             "state" : "translated",
             "value" : "仅追加"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追記のみ"
+          }
         }
       }
     },
@@ -618,6 +768,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_NODUMP"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UF_NODUMP"
@@ -646,6 +802,12 @@
             "state" : "translated",
             "value" : "不可变"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更不可"
+          }
         }
       }
     },
@@ -670,6 +832,12 @@
             "state" : "translated",
             "value" : "用户标志"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザーフラグ"
+          }
         }
       }
     },
@@ -690,6 +858,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不透明"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "不透明"
@@ -718,6 +892,12 @@
             "state" : "translated",
             "value" : "创建时间："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成日時:"
+          }
         }
       }
     },
@@ -738,6 +918,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_TRACKED"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UF_TRACKED"
@@ -766,6 +952,12 @@
             "state" : "translated",
             "value" : "执行"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行"
+          }
         }
       }
     },
@@ -789,6 +981,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更改时间："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "属性変更日時:"
           }
         }
       }
@@ -814,6 +1012,12 @@
             "state" : "translated",
             "value" : "数据保险库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "データ保護"
+          }
         }
       }
     },
@@ -837,6 +1041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "其他："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他:"
           }
         }
       }
@@ -862,6 +1072,12 @@
             "state" : "translated",
             "value" : "所有者："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有者:"
+          }
         }
       }
     },
@@ -882,6 +1098,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_HIDDEN"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UF_HIDDEN"
@@ -910,6 +1132,12 @@
             "state" : "translated",
             "value" : "写入"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書込"
+          }
         }
       }
     },
@@ -930,6 +1158,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_DATALESS"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_DATALESS"
@@ -958,6 +1192,12 @@
             "state" : "translated",
             "value" : "UF_OPAQUE"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_OPAQUE"
+          }
         }
       }
     },
@@ -981,6 +1221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不可变"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更不可"
           }
         }
       }
@@ -1006,6 +1252,12 @@
             "state" : "translated",
             "value" : "所有者："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有者:"
+          }
         }
       }
     },
@@ -1026,6 +1278,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "←"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "←"
@@ -1054,6 +1312,12 @@
             "state" : "translated",
             "value" : "UF_IMMUTABLE"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_IMMUTABLE"
+          }
         }
       }
     },
@@ -1074,6 +1338,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_ARCHIVED"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_ARCHIVED"
@@ -1102,6 +1372,12 @@
             "state" : "translated",
             "value" : "群组："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "グループ:"
+          }
         }
       }
     },
@@ -1126,6 +1402,12 @@
             "state" : "translated",
             "value" : "访问时间："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アクセス日時:"
+          }
         }
       }
     },
@@ -1146,6 +1428,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "←"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "←"
@@ -1174,6 +1462,12 @@
             "state" : "translated",
             "value" : "仅追加"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追記のみ"
+          }
         }
       }
     },
@@ -1198,6 +1492,12 @@
             "state" : "translated",
             "value" : "不可移除链接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リンク解除を禁止"
+          }
         }
       }
     },
@@ -1218,6 +1518,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF_APPEND"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SF_APPEND"
@@ -1246,6 +1552,12 @@
             "state" : "translated",
             "value" : "系统标志"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システムフラグ"
+          }
         }
       }
     },
@@ -1266,6 +1578,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UF_COMPRESSED"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UF_COMPRESSED"
@@ -1294,6 +1612,12 @@
             "state" : "translated",
             "value" : "←"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "←"
+          }
         }
       }
     },
@@ -1317,6 +1641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不转储"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダンプ対象外"
           }
         }
       }

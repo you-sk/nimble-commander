@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "local-server"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "local-server"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "任意标题"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任意の名前"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "…"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
         }
       }
     },
@@ -90,6 +108,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NFS"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "NFS"
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "协议："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロトコル:"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标题："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前:"
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "任意标题"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任意の名前"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "密码"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "passwd"
+          }
         }
       }
     },
@@ -237,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "访客"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "guest"
           }
         }
       }
@@ -262,6 +322,12 @@
             "state" : "translated",
             "value" : "共享："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共有名:"
+          }
         }
       }
     },
@@ -282,6 +348,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shared_folder"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "shared_folder"
@@ -310,6 +382,12 @@
             "state" : "translated",
             "value" : "local-server"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "local-server"
+          }
         }
       }
     },
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "密码："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード:"
+          }
         }
       }
     },
@@ -354,6 +438,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SMB"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "SMB"
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "连接到网络共享："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネットワーク共有に接続:"
+          }
         }
       }
     },
@@ -402,6 +498,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shared_folder"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "shared_folder"
@@ -430,6 +532,12 @@
             "state" : "translated",
             "value" : "用户名："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザー名:"
+          }
         }
       }
     },
@@ -453,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "存储"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
           }
         }
       }
@@ -478,6 +592,12 @@
             "state" : "translated",
             "value" : "连接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続"
+          }
         }
       }
     },
@@ -501,6 +621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自动"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動"
           }
         }
       }
@@ -526,6 +652,12 @@
             "state" : "translated",
             "value" : "访客"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "guest"
+          }
         }
       }
     },
@@ -549,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "密码"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "passwd"
           }
         }
       }
@@ -574,6 +712,12 @@
             "state" : "translated",
             "value" : "装载路径："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マウント先のパス:"
+          }
         }
       }
     },
@@ -597,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバ:"
           }
         }
       }
@@ -622,6 +772,12 @@
             "state" : "translated",
             "value" : "自动"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自動"
+          }
         }
       }
     },
@@ -642,6 +798,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AFP"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "AFP"

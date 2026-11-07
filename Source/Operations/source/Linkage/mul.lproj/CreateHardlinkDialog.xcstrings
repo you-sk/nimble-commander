@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "输入硬链接名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハードリンク名を入力"
+          }
         }
       }
     },
@@ -46,6 +52,12 @@
             "state" : "translated",
             "value" : "创建"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作成"
+          }
         }
       }
     },
@@ -69,6 +81,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "取消"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
           }
         }
       }

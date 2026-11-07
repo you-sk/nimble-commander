@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "选择要启动的编辑器时，将按此列表中的出现顺序检查编辑器。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起動するエディタは、この一覧の上から順に確認して選ばれます。"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文件掩码"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名のパターン"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "选择要启动的编辑器时，将按此列表中的出现顺序检查编辑器。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "起動するエディタは、この一覧の上から順に確認して選ばれます。"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "外部编辑器"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外部エディタ"
           }
         }
       }

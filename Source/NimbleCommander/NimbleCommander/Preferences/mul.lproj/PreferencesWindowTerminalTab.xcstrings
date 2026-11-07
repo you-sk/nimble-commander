@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "支持的 shell：bash、zsh 和 [t]csh"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "対応シェル: bash、zsh、[t]csh"
+          }
         }
       }
     },
@@ -45,6 +51,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "默认登录 shell"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既定のログインシェル"
           }
         }
       }
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "▁ 下划线"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "▁ 下線"
+          }
         }
       }
     },
@@ -93,6 +111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "█ 方块"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "█ ブロック"
           }
         }
       }
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "光标："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カーソル:"
+          }
         }
       }
     },
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用以下方式打开 shell："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シェルの起動方法: "
           }
         }
       }
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : " ▏竖线"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " ▏縦線"
+          }
         }
       }
     },
@@ -190,6 +232,12 @@
             "state" : "translated",
             "value" : "隐藏滚动条"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールバーを非表示"
+          }
         }
       }
     },
@@ -213,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "命令（完整路径）："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンド（フルパス）:"
           }
         }
       }

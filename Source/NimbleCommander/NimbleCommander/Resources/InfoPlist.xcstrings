@@ -16,6 +16,12 @@
             "state" : "translated",
             "value" : "Nimble Commander"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commander"
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nimble Commander 中的某个应用程序想要使用 AppleScript。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commander内のアプリケーションがAppleScriptを使用しようとしています。"
           }
         }
       }
@@ -52,6 +64,12 @@
             "state" : "translated",
             "value" : "需要此访问权限，才能允许你使用 Nimble Commander 浏览和管理此文件夹中的项目。未经你的操作，本应用程序不会使用你的任何个人数据。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commanderでこのフォルダ内の項目を表示・管理するためにアクセスが必要です。ユーザーの操作なしに個人データを使用することはありません。"
+          }
         }
       }
     },
@@ -69,6 +87,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "需要此访问权限，才能允许你使用 Nimble Commander 浏览和管理此文件夹中的项目。未经你的操作，本应用程序不会使用你的任何个人数据。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commanderでこのフォルダ内の項目を表示・管理するためにアクセスが必要です。ユーザーの操作なしに個人データを使用することはありません。"
           }
         }
       }
@@ -88,6 +112,12 @@
             "state" : "translated",
             "value" : "需要此访问权限，才能允许你使用 Nimble Commander 浏览和管理此文件夹中的项目。未经你的操作，本应用程序不会使用你的任何个人数据。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nimble Commanderでこのフォルダ内の項目を表示・管理するためにアクセスが必要です。ユーザーの操作なしに個人データを使用することはありません。"
+          }
         }
       }
     },
@@ -105,6 +135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "版权所有 © 2013-2026 Michael Kazakov。\n保留所有权利。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright © 2013-2026 Michael Kazakov.\nAll rights reserved."
           }
         }
       }

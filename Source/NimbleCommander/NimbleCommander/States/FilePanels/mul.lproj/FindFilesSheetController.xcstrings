@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "⎋"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⎋"
+          }
         }
       }
     },
@@ -42,6 +48,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "0"
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "^M"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^M"
+          }
         }
       }
     },
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "文件名掩码无效"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名のパターンが無効です"
+          }
         }
       }
     },
@@ -114,6 +138,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "="
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "="
@@ -142,6 +172,12 @@
             "state" : "translated",
             "value" : "^I"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^I"
+          }
         }
       }
     },
@@ -165,6 +201,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在压缩包中查找"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーカイブ内も検索"
           }
         }
       }
@@ -190,6 +232,12 @@
             "state" : "translated",
             "value" : "文件和文件夹"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルとフォルダ"
+          }
         }
       }
     },
@@ -210,6 +258,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^S"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^S"
@@ -238,6 +292,12 @@
             "state" : "translated",
             "value" : "面板"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペイン"
+          }
         }
       }
     },
@@ -261,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "位置"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場所"
           }
         }
       }
@@ -286,6 +352,12 @@
             "state" : "translated",
             "value" : "MB"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mb"
+          }
         }
       }
     },
@@ -309,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "修改时间"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更日時"
           }
         }
       }
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "显示"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示"
+          }
         }
       }
     },
@@ -357,6 +441,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文件夹"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フォルダ"
           }
         }
       }
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "文件名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル名"
+          }
         }
       }
     },
@@ -402,6 +498,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "0"
@@ -430,6 +532,12 @@
             "state" : "translated",
             "value" : "^P"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^P"
+          }
         }
       }
     },
@@ -453,6 +561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索内容："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索対象:"
           }
         }
       }
@@ -478,6 +592,12 @@
             "state" : "translated",
             "value" : "文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル"
+          }
         }
       }
     },
@@ -495,6 +615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文本单元格"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "jtt-0L-3Vf.title"
           }
         }
       }
@@ -520,6 +646,12 @@
             "state" : "translated",
             "value" : "大小"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ"
+          }
         }
       }
     },
@@ -544,6 +676,12 @@
             "state" : "translated",
             "value" : "在子目录中查找"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サブフォルダ内も検索"
+          }
         }
       }
     },
@@ -562,6 +700,12 @@
             "state" : "translated",
             "value" : "文本单元格"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOD-fH-Yh6.title"
+          }
         }
       }
     },
@@ -579,6 +723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文本单元格"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NaU-Re-Nxc.title"
           }
         }
       }
@@ -600,6 +750,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^G"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^G"
@@ -628,6 +784,12 @@
             "state" : "translated",
             "value" : "停止"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止"
+          }
         }
       }
     },
@@ -651,6 +813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "搜索"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "検索"
           }
         }
       }
@@ -676,6 +844,12 @@
             "state" : "translated",
             "value" : "GB"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gb"
+          }
         }
       }
     },
@@ -699,6 +873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关闭"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
           }
         }
       }
@@ -724,6 +904,12 @@
             "state" : "translated",
             "value" : "使用掩码搜索项目："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前のパターンで項目を検索:"
+          }
         }
       }
     },
@@ -741,6 +927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文本单元格"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROy-iE-OqK.title"
           }
         }
       }
@@ -766,6 +958,12 @@
             "state" : "translated",
             "value" : "包含文本："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "含まれるテキスト:"
+          }
         }
       }
     },
@@ -786,6 +984,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^T"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^T"
@@ -814,6 +1018,12 @@
             "state" : "translated",
             "value" : "B"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "b"
+          }
         }
       }
     },
@@ -834,6 +1044,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≤"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "≤"
@@ -862,6 +1078,12 @@
             "state" : "translated",
             "value" : "前往"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移動"
+          }
         }
       }
     },
@@ -886,6 +1108,12 @@
             "state" : "translated",
             "value" : "KB"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kb"
+          }
         }
       }
     },
@@ -906,6 +1134,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^V"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "^V"
@@ -934,6 +1168,12 @@
             "state" : "translated",
             "value" : "⚠️"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⚠️"
+          }
         }
       }
     },
@@ -954,6 +1194,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "≥"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "≥"
@@ -982,6 +1228,12 @@
             "state" : "translated",
             "value" : "大小："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ条件:"
+          }
         }
       }
     },
@@ -1005,6 +1257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "找到的项目："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見つかった項目:"
           }
         }
       }

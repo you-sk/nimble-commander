@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "存储"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
         }
       }
     },
@@ -46,6 +52,12 @@
             "state" : "translated",
             "value" : "连接"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続"
+          }
         }
       }
     },
@@ -66,6 +78,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "root"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "root"
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "连接到 SFTP 服务器："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SFTPサーバに接続:"
+          }
         }
       }
     },
@@ -118,6 +142,12 @@
             "state" : "translated",
             "value" : "密码："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード:"
+          }
         }
       }
     },
@@ -138,6 +168,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "example.com"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "example.com"
@@ -166,6 +202,12 @@
             "state" : "translated",
             "value" : "example.com"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "example.com"
+          }
         }
       }
     },
@@ -189,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "路径"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "path"
           }
         }
       }
@@ -214,6 +262,12 @@
             "state" : "translated",
             "value" : "路径"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "path"
+          }
         }
       }
     },
@@ -238,6 +292,12 @@
             "state" : "translated",
             "value" : "远程端口："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続先ポート:"
+          }
         }
       }
     },
@@ -258,6 +318,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "22"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "22"
@@ -286,6 +352,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -309,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "用户名："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ユーザー名:"
           }
         }
       }
@@ -334,6 +412,12 @@
             "state" : "translated",
             "value" : "服务器密码或密钥口令"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバのパスワードまたは鍵のパスフレーズ"
+          }
         }
       }
     },
@@ -354,6 +438,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "22"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "22"
@@ -382,6 +472,12 @@
             "state" : "translated",
             "value" : "任意标题"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "任意の名前"
+          }
         }
       }
     },
@@ -406,6 +502,12 @@
             "state" : "translated",
             "value" : "标题："
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前:"
+          }
         }
       }
     },
@@ -426,6 +528,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "root"
+          }
+        },
+        "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "root"
@@ -454,6 +562,12 @@
             "state" : "translated",
             "value" : "🔑"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔑"
+          }
         }
       }
     },
@@ -477,6 +591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバ:"
           }
         }
       }
@@ -502,6 +622,12 @@
             "state" : "translated",
             "value" : "密码"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "passwd"
+          }
         }
       }
     },
@@ -525,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "密钥文件："
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秘密鍵ファイル:"
           }
         }
       }
