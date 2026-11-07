@@ -14,6 +14,7 @@
 - [日本語化の全体監査と残作業](Docs/LOCALIZATION_AUDIT_JA.md)
 - [日本語UIの表示校正記録](Docs/JAPANESE_UI_PROOFREADING_JA.md)
 - [起動時の案内・更新方針](Docs/FORK_STARTUP_POLICY_JA.md)
+- [既定ブランチへの統合記録](Docs/MAIN_INTEGRATION_JA.md)
 - [Forkの変更履歴](Docs/CHANGELOG_JA.md)
 - [上流の変更履歴](WHATS_NEW.md)
 - [GPL v3 ライセンス](LICENSE.md)
